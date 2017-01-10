@@ -1,0 +1,6 @@
+framework module Pods_Auth0_Dummy {
+  umbrella header "Pods-Auth0 Dummy-umbrella.h"
+
+  export *
+  module * { export * }
+}
